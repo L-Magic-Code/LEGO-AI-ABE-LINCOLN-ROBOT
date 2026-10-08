@@ -44,7 +44,7 @@ This project was inspired by CreativeMindstorm's Lego AI Dave Head. You should a
 ### Installation
 1. Clone this repository with git:
 ```bash
-  git clone https://github.com/L-Magic-Code/ABE-LINCOLN-AI-LEGO-ROBOT.git
+  git clone https://github.com/L-Magic-Code/LEGO-AI-ABE-LINCOLN-ROBOT.git
 ```
 2. Install the required packages listed in requirements.txt:
 ```bash
