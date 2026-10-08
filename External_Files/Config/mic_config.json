@@ -1,0 +1,14 @@
+{
+    "use_mic": true,
+    "listening-timeout" : 45,
+    "listen-trigger-words": [
+        "hey abraham lincoln",
+        "abe",
+        "abraham",
+        "lincoln",
+        "president",
+        "robot",
+        "listen",
+        "honest abe"
+    ]
+}

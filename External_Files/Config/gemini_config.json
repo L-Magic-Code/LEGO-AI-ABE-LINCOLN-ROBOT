@@ -1,0 +1,6 @@
+{
+    "prompt_file_path": "External_Files/ai_prompt.txt",
+    "chat_history_file_path": "External_Files/chat_history.txt",
+    "gemini_model": "gemini-2.5-flash",
+    "save_history" : true
+}

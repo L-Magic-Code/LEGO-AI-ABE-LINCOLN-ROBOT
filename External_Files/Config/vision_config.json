@@ -1,0 +1,35 @@
+{
+    "auto_camera_start": true,
+    "default_tracking_mode": "face",
+    "vision_trigger_words": [
+        "can you see",
+        "do you see",
+        "look at",
+        "where is",
+        "what is this",
+        "in my hand",
+        "desk",
+        "desktop",
+        "workspace",
+        "in front of you",
+        "this is",
+        "that is",
+        "here is",
+        "use you vision",
+        "holding"
+    ],
+    "use_front_camera" : true,
+    "use_desk_camera" : true,
+
+    "front_camera_type" : "regular_camera",
+    "force_front_camera" : false,
+    "front_camera_port" : 8,
+    "show_front_feed" : true,
+ 
+    "desk_camera_type" : "raspberry_pi_camera",
+    "force_desk_camera" : false,    
+    "desk_camera_port" : null,
+    "show_desk_feed" : true,
+
+    "gemini_camera" : "desk"
+}

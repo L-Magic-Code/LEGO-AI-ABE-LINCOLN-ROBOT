@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+*.task
+*.tflite
+
+External_Files/vosk-large-model/
+External_Files/vosk-small-model/
+External_Files/vosk-model/
+
+External_Files/ai_prompt.txt
+External_Files/chat_history.txt
+
+.env
+.env.*
+!.env.example
